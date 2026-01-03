@@ -26,4 +26,4 @@ Ce modèle a été choisi car il est optimisé pour des réponses rapides, ce qu
 
 ### Vidéo de démonstration
 Lien vers la vidéo de démonstration :
-https://youtu.be/lwIHd99KX_U?si=2z6wqoTW53DdbQLo
+https://www.youtube.com/watch?v=WCws-uf2ciM
